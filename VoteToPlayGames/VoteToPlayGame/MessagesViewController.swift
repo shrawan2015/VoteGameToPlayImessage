@@ -61,6 +61,10 @@ class MessagesViewController: MSMessagesAppViewController {
     override func willTransition(to presentationStyle: MSMessagesAppPresentationStyle) {
         // Called before the extension transitions to a new presentation style.
     
+        guard let conversation = activeConversation else { fatalError("Expected an active converstation") }
+        // Present the view controller appropriate for the conversation and presentation style.
+        presentViewController(for: conversation, by: presentationStyle)
+        
         // Use this method to prepare for the change in presentation style.
     }
     

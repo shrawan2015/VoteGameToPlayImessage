@@ -23,6 +23,7 @@
 		0411BC951D8C280100B1B9AF /* GameListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0411BC941D8C280100B1B9AF /* GameListController.swift */; };
 		0411BC971D8C282300B1B9AF /* VoteGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0411BC961D8C282300B1B9AF /* VoteGameViewController.swift */; };
 		0411BC991D8C2E0D00B1B9AF /* sports.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0411BC981D8C2E0D00B1B9AF /* sports.jpg */; };
+		0411BC9B1D8C3C7300B1B9AF /* MyPlayCollectionCellCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0411BC9A1D8C3C7300B1B9AF /* MyPlayCollectionCellCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +88,7 @@
 		0411BC941D8C280100B1B9AF /* GameListController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameListController.swift; sourceTree = "<group>"; };
 		0411BC961D8C282300B1B9AF /* VoteGameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VoteGameViewController.swift; sourceTree = "<group>"; };
 		0411BC981D8C2E0D00B1B9AF /* sports.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sports.jpg; sourceTree = "<group>"; };
+		0411BC9A1D8C3C7300B1B9AF /* MyPlayCollectionCellCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPlayCollectionCellCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +197,7 @@
 				0411BC921D8C27E500B1B9AF /* CompactViewController.swift */,
 				0411BC941D8C280100B1B9AF /* GameListController.swift */,
 				0411BC961D8C282300B1B9AF /* VoteGameViewController.swift */,
+				0411BC9A1D8C3C7300B1B9AF /* MyPlayCollectionCellCollectionViewCell.swift */,
 			);
 			path = VoteToPlayGame;
 			sourceTree = "<group>";
@@ -394,6 +397,7 @@
 			files = (
 				0411BC951D8C280100B1B9AF /* GameListController.swift in Sources */,
 				0411BC931D8C27E500B1B9AF /* CompactViewController.swift in Sources */,
+				0411BC9B1D8C3C7300B1B9AF /* MyPlayCollectionCellCollectionViewCell.swift in Sources */,
 				0411BC971D8C282300B1B9AF /* VoteGameViewController.swift in Sources */,
 				0411BC841D8C279F00B1B9AF /* MessagesViewController.swift in Sources */,
 			);
@@ -665,6 +669,7 @@
 				0411BC731D8C269300B1B9AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0411BC741D8C269300B1B9AF /* Build configuration list for PBXNativeTarget "VoteToPlayGamesTests" */ = {
 			isa = XCConfigurationList;
@@ -673,6 +678,7 @@
 				0411BC761D8C269300B1B9AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0411BC771D8C269300B1B9AF /* Build configuration list for PBXNativeTarget "VoteToPlayGamesUITests" */ = {
 			isa = XCConfigurationList;
@@ -681,6 +687,7 @@
 				0411BC791D8C269300B1B9AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0411BC8E1D8C27A000B1B9AF /* Build configuration list for PBXNativeTarget "VoteToPlayGame" */ = {
 			isa = XCConfigurationList;
@@ -689,6 +696,7 @@
 				0411BC901D8C27A000B1B9AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

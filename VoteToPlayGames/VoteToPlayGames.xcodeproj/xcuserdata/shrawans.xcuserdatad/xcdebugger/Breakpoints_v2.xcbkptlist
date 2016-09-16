@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VoteToPlayGame/GameListController.swift"
+            timestampString = "495731390.997881"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VoteToPlayGame/GameListController.swift"
+            timestampString = "495731187.28879"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "GameListController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VoteToPlayGame.GameListController.collectionViewOutlet.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionView&gt;"
+                  moduleName = "VoteToPlayGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shrawans/Desktop/iMessage%20Application%20/VoteToPlayGames/VoteToPlayGame/GameListController.swift"
+                  timestampString = "495731189.287662"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VoteToPlayGame.GameListController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; VoteToPlayGame.GameListController"
+                  moduleName = "VoteToPlayGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shrawans/Desktop/iMessage%20Application%20/VoteToPlayGames/VoteToPlayGame/GameListController.swift"
+                  timestampString = "495731189.291879"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VoteToPlayGame.GameListController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;VoteToPlayGame.GameListController&gt;"
+                  moduleName = "VoteToPlayGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shrawans/Desktop/iMessage%20Application%20/VoteToPlayGames/VoteToPlayGame/GameListController.swift"
+                  timestampString = "495731189.294149"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
